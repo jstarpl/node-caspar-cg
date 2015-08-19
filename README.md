@@ -1,3 +1,6 @@
+NOTE: THIS IS A SLIGHTLY MODIFIED VERSION OF THE CASPAR-CG MODULE. IT HAS
+SUPPORT FOR FLASH TEMPLATE LAYERS. IT'S API IS THEREFORE DIFFERENT THAN STOCK MODULE.
+
 # CasparCG to Node interface
 
 [![Build Status](https://travis-ci.org/respectTheCode/node-caspar-cg.png)](https://travis-ci.org/respectTheCode/node-caspar-cg)
